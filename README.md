@@ -23,5 +23,3 @@ The DWH is organized into three core layers:
 - **Version Control** – Git + GitHub  
 
 ---
-
-## 📂 Project Structure  
